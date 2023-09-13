@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Countries-api-with-theme-switcher--React-Tailwind-Ts/static/css/main.a0f538ec.css",
+    "main.js": "/Countries-api-with-theme-switcher--React-Tailwind-Ts/static/js/main.73661470.js",
+    "index.html": "/Countries-api-with-theme-switcher--React-Tailwind-Ts/index.html",
+    "main.a0f538ec.css.map": "/Countries-api-with-theme-switcher--React-Tailwind-Ts/static/css/main.a0f538ec.css.map",
+    "main.73661470.js.map": "/Countries-api-with-theme-switcher--React-Tailwind-Ts/static/js/main.73661470.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f538ec.css",
+    "static/js/main.73661470.js"
+  ]
+}
